@@ -38,7 +38,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Github</center></b></span> 
-<img height=65px src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> 
+<img height=65px src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/142_Github_logo_logos-512.png"> 
 </td>
 
 <td align="center" width="20%">
