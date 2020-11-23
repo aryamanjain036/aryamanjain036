@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋</h3>
+## Hi there 👋
 
 ![Header](https://raw.githubusercontent.com/aryamanjain036/aryamanjain036/main/5fbbbdac56b40655740226.gif)
 
