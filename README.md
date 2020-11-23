@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Header](https://raw.githubusercontent.com/aryamanjain036/aryamanjain036/main/5fbbbdac56b40655740226.gif)]
 <!--
 **aryamanjain036/aryamanjain036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
