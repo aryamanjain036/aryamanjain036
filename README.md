@@ -67,5 +67,5 @@
 </tbody>
 </table>
 
-## 📊 GitHub Stats:
-![Aryaman Jain's Github Stats](https://github-readme-stats.vercel.app/api?username=aryamanjain036&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## GitHub Stats 📊
+![Aryaman Jain's Github Stats](https://github-readme-stats.vercel.app/api?username=aryamanjain036&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&hide=issues)
