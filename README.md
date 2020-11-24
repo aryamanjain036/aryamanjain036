@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!
+<!--
 ![Header](https://raw.githubusercontent.com/aryamanjain036/aryamanjain036/main/5fbbbdac56b40655740226.gif)
 -->
 - 🔭 I’m currently working on improving my competitive coding.
