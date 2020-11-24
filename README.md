@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+<!
 ![Header](https://raw.githubusercontent.com/aryamanjain036/aryamanjain036/main/5fbbbdac56b40655740226.gif)
-
+-->
 - 🔭 I’m currently working on improving my competitive coding.
 - 🌱 I’m currently learning flutter.
 - 💬 Ask me about java , openCV , UI/UX design.
@@ -73,7 +73,7 @@
 ## Connect with me 🖖
 
 [![Linkedin: aryamanjain](https://img.shields.io/badge/-aryamanjain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryaman-jain-8846a4183/)](https://www.linkedin.com/in/aryaman-jain-8846a4183/)
-[![GitHub aryamanjain036](https://img.shields.io/github/followers/ankityddv?label=follow&style=social)](https://github.com/aryamanjain036)
+[![GitHub aryamanjain036](https://img.shields.io/github/followers/aryamanjain036?label=follow&style=social)](https://github.com/aryamanjain036)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/aryaman_jain/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:aryaman199903@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/aryaman.jain.35/)
